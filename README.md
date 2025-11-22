@@ -49,15 +49,12 @@ Criar suas próprias versões a partir das bases
 Este repositório utiliza MIT License, permitindo:
 
 ✔️ Uso
-
 ✔️ Modificação
-
 ✔️ Distribuição
 
 Veja o arquivo LICENSE para detalhes.
 
-## 🌐 Contato & Redes Sociais
-
+🌐 Contato & Redes Sociais
 📧 E-mail: viniciusdevsuporte@gmail.com
 🌐 Site: https://jextreme.fun
 💬 Discord: https://discord.com/invite/7jgkznBzK5
